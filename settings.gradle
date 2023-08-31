@@ -1,0 +1,3 @@
+rootProject.name = 'meatball-gradle-plugin'
+
+include 'plugin'
